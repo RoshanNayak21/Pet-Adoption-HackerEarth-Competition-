@@ -1,0 +1,16 @@
+About the dataset:
+The dataset consists of parameters such as: a unique ID assigned to each animal that is up for adoption, date on which they arrived at the shelter, their physical attributes such as color, length and height, among other factors.
+
+Task of the problem:
+To build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
+
+What did I use?
+Libraries: scikit-learn, pandas, numpy, seaborn.
+model: LightGBM.
+
+Results:
+Achieved an accuracy of 89.06%
+Ranked 273/5060 participants.
+
+Link to the competition:
+https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/
